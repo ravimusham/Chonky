@@ -1,5 +1,5 @@
 {
-  "name": "chonky",
+  "name": "r_chonky",
   "version": "2.2.0",
   "description": "A File Browser component for React",
   "license": "MIT",
@@ -97,13 +97,13 @@
   },
   "homepage": "https://chonky.io/",
   "author": {
-    "name": "Timur Kuzhagaliyev",
-    "email": "tim.kuzh@gmail.com",
+    "name": "Ravi kumar Musham",
+    "email": "ravimusham7@gmail.com",
     "url": "https://foxypanda.me/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TimboKZ/Chonky.git"
+    "url": "git+https://github.com/ravimusham/R_chonky"
   },
   "bugs": {
     "url": "https://github.com/TimboKZ/Chonky/issues"
